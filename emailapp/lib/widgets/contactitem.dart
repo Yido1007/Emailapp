@@ -151,7 +151,7 @@ class _ContactWidgetState extends State<ContactWidget> {
                       ),
                       Gap(10),
                       InkWell(
-                        onTap: yGithub,
+                        onTap: eGithub,
                         child: SvgPicture.asset(
                           "assets/icon/github.svg",
                           width: 50,
@@ -160,7 +160,7 @@ class _ContactWidgetState extends State<ContactWidget> {
                       ),
                       Gap(10),
                       InkWell(
-                        onTap: yLinkedin,
+                        onTap: eLinkedin,
                         child: SvgPicture.asset(
                           "assets/icon/linkedin.svg",
                           width: 50,
