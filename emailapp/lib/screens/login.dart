@@ -124,7 +124,7 @@ class LoginScreenState extends State<LoginScreen> {
                     children: [
                       ElevatedButton(
                         onPressed: login,
-                        child: Text("buttonText"),
+                        child: Text("Giriş yap"),
                       ),
                     ],
                   ),
@@ -138,7 +138,7 @@ class LoginScreenState extends State<LoginScreen> {
                       ElevatedButton(
                         onPressed: () =>
                             Navigator.pushNamed(context, "/register"),
-                        child: Text("buttonText"),
+                        child: Text("Kayıt ol"),
                       ),
                     ],
                   ),

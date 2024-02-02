@@ -124,7 +124,7 @@ class RegisterScreenState extends State<RegisterScreen> {
               children: [
                 ElevatedButton(
                   onPressed: register,
-                  child: Text("buttonText"),
+                  child: Text("Kayıt ol"),
                 ),
               ],
             ),
@@ -137,7 +137,7 @@ class RegisterScreenState extends State<RegisterScreen> {
                 Gap(30),
                 ElevatedButton(
                   onPressed: () => Navigator.pushNamed(context, "/login"),
-                  child: Text("buttonText"),
+                  child: Text("Giriş yap"),
                 ),
               ],
             ),

@@ -183,7 +183,7 @@ class _ContactWidgetState extends State<ContactWidget> {
                     ),
                   ),
                   InkWell(
-                    onTap: yLinkedin,
+                    onTap: phone,
                     child: Icon(
                       Icons.phone,
                       size: 50,
