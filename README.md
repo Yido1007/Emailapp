@@ -1,6 +1,6 @@
 # Emailapp
 
-[@ketiyvanarasteh](https://github.com/keyvanarasteh)
+[keyvanarasteh](https://github.com/keyvanarasteh)
 
 > Teammates
  - [@doganlemre](https://github.com/doganlemre)
